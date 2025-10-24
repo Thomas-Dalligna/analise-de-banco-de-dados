@@ -17,5 +17,4 @@ Investigar padrões e possíveis causas de cancelamentos, aplicando estatística
 # ⚙️ Tecnologias utilizadas
 - Python
 - Pandas
-- NumPy
-- Matplotlib
+- Plotly
