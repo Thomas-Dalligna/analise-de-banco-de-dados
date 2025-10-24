@@ -1,5 +1,5 @@
 # 📊 analise-de-banco-de-dados
-Análise de banco de dados fictício com Python.
+Análise de dados oriundos de uma base fictícia com Python.
 
 # 🧠 Objetivo
 Investigar padrões e possíveis causas de cancelamentos, aplicando estatísticas descritivas e visualizações gráficas.
