@@ -5,7 +5,7 @@ Análise de banco de dados fictício com Python.
 Investigar padrões e possíveis causas de cancelamentos, aplicando estatísticas descritivas e visualizações gráficas.
 
 # 📁 Link do Google Drive para visualização dos arquivos
-- [Google Drive]: https://drive.google.com/drive/folders/13RRmVyIRKfF1hefi94eoS3900vqGJf_e?usp=sharing
+- [Google Drive](https://drive.google.com/drive/folders/13RRmVyIRKfF1hefi94eoS3900vqGJf_e?usp=sharing)
 - `inicial.ipynb`: notebook principal com toda a análise
 - `cancelamentos.csv`: base de dados usada na análise
 
